@@ -1,4 +1,4 @@
-Thông tin
+Thông tin sinh viên
 - Họ tên: Nguyễn Hoàng Phúc
 - MSSV: N22DCPT073
 - Lớp: D22DCPTUD01-N

@@ -7,7 +7,7 @@ Thông tin sinh viên
 ---
 
 Dự án web đặt lịch hẹn cắt tóc 
-- Video demo: https://drive.google.com/file/d/1v23HedO2eFQSllzcp6mN3hzcSeQC64xw/view?usp=drive_link
+- Video demo: https://drive.google.com/file/d/11kcoO_WIZkmAcdXfe3Ektgd3ItmI8IvU/view?usp=drive_link
 - Link web demo: http://datlichcattoc.free.nf/web-project/frontend/index.html
 - Báo cáo PDF: report/bao-cao-nhom-4.pdf [Link](./report/bao-cao-nhom-4.pdf)
 

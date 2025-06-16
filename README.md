@@ -11,9 +11,13 @@ Trần Anh Tuấn | N22DCPT108 | Front-end
 Dương Kim Huy Hoàng | N22DCPT031 | Database
 
 🛠️ Công nghệ sử dụng
+
 💻 Frontend: HTML, CSS, JavaScript
+
 🧠 Backend: PHP (thuần)
+
 🗄️ Cơ sở dữ liệu: MySQL
+
 🌐 InfinityFree (host miễn phí)
 
 Thông tin sinh viên
